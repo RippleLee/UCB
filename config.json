@@ -1,0 +1,12 @@
+{
+  "model_name": "resnet50",
+  "no_models": 20,
+  "type": "cifar",
+  "global_epochs": 150,
+  "local_epochs": 3,
+  "k": 6,
+  "batch_size": 32,
+  "lr": 0.001,
+  "momentum": 0.0001,
+  "lambda": 0.1
+}
